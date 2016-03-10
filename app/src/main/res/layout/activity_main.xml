@@ -1,0 +1,71 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingLeft="@dimen/activity_horizontal_margin"
+                android:paddingRight="@dimen/activity_horizontal_margin"
+                android:paddingTop="@dimen/activity_vertical_margin"
+                android:paddingBottom="@dimen/activity_vertical_margin"
+                tools:context=".MainActivity">
+
+    <RadioGroup
+            android:id="@+id/radio_activities"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+        <RadioButton
+                android:id="@+id/radio_walk"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/radio_walk"
+                android:onClick="onRadioButtonClicked"/>
+        <RadioButton
+                android:id="@+id/radio_sit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/radio_sit"
+                android:onClick="onRadioButtonClicked"/>
+        <RadioButton
+                android:id="@+id/radio_fall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/radio_fall"
+                android:onClick="onRadioButtonClicked"/>
+        <RadioButton
+                android:id="@+id/radio_other"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/radio_other"
+                android:onClick="onRadioButtonClicked"/>
+    </RadioGroup>
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_below="@id/radio_activities">
+
+        <ToggleButton
+                android:id="@+id/toggle_stream"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textOn="Stream"
+                android:textOff="No Stream"
+                android:onClick="onStreamButtonClicked"/>
+
+        <TextView
+                android:id="@+id/text_ip"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="16dp"/>
+
+    </LinearLayout>
+
+    <Button
+            android:id="@+id/sensing_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:onClick="switchSensing"
+            android:text="@string/button_startSensing" />
+
+</RelativeLayout>

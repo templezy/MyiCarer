@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ligefei/Documents/workspace/SensorLog/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/ligefei/Documents/workspace/SensorLog/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-edf843c0af98089693e8be9a7f1ea3c0fb30260c.jar" />
+    </item>
+    <item
+        jar="/Users/ligefei/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/ligefei/Documents/workspace/SensorLog/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-0307818938c685b41f1b22f78c46e544935ff325.jar" />
+    </item>
+    <item
+        jar="/Users/ligefei/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/ligefei/Documents/workspace/SensorLog/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-0307818938c685b41f1b22f78c46e544935ff325.jar" />
+    </item>
+    <item
+        jar="/Users/ligefei/Documents/workspace/SensorLog/app/lib/commons-math3-3.5.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="13af68e9a11576953f5c4b09436f8207be9d3a27">
+        <dex dex="/Users/ligefei/Documents/workspace/SensorLog/app/build/intermediates/pre-dexed/debug/commons-math3-3.5-52d2dacd50432454be7f1cd05e63e8bab062715d.jar" />
+    </item>
+    <item
+        jar="/Users/ligefei/Documents/workspace/SensorLog/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/ligefei/Documents/workspace/SensorLog/app/build/intermediates/pre-dexed/debug/classes-dd7b88921f0c86c404dd097f5a274e6917bc8737.jar" />
+    </item>
+    <item
+        jar="/Users/ligefei/Documents/workspace/SensorLog/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/ligefei/Documents/workspace/SensorLog/app/build/intermediates/pre-dexed/debug/classes-6d249549797d4492b67f6bbb4f50e78a2c399b67.jar" />
+    </item>
+    <item
+        jar="/Users/ligefei/Documents/workspace/SensorLog/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/ligefei/Documents/workspace/SensorLog/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-edf843c0af98089693e8be9a7f1ea3c0fb30260c.jar" />
+    </item>
+    <item
+        jar="/Users/ligefei/Documents/workspace/SensorLog/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/ligefei/Documents/workspace/SensorLog/app/build/intermediates/pre-dexed/debug/classes-6d249549797d4492b67f6bbb4f50e78a2c399b67.jar" />
+    </item>
+    <item
+        jar="/Users/ligefei/Documents/workspace/SensorLog/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/ligefei/Documents/workspace/SensorLog/app/build/intermediates/pre-dexed/debug/classes-dd7b88921f0c86c404dd097f5a274e6917bc8737.jar" />
+    </item>
+
+</items>
